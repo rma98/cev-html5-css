@@ -1,2 +1,3 @@
-# cev-html5-css
-Curso de HTML5 e CSS3 by Gustavo Guanabara
+# Curso de HTML5 e CSS3 by Gustavo Guanabara - [Curso em Vídeo](https://www.cursoemvideo.com/cursos/)
+
+* [Módulo 1](https://www.cursoemvideo.com/curso/html5-css3-modulo1/)
